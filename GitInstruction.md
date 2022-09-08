@@ -19,9 +19,9 @@
 
 ## *open commit history*
     git log
-    git log --oneLine
+    git log --oneline
 ### git log: displays all of the commits in a repository's history.
-### git log --oneLine: display the output as one commit per line. It also shows the output in brief like the first seven characters of the commit SHA and the commit message.
+### git log --oneline: display the output as one commit per line. It also shows the output in brief like the first seven characters of the commit SHA and the commit message.
 
 ## *switch between branches*
     git checkout
