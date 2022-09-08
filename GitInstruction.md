@@ -9,3 +9,6 @@
 ## change repository
     git commit
 ### save changes to the local repository
+
+    git commit -am
+### both add changes in the working directory and save changes to the local repository with a comment
