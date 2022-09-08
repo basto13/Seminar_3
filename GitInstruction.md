@@ -22,3 +22,9 @@
     git log --oneLine
 ### git log: displays all of the commits in a repository's history.
 ### git log --oneLine: display the output as one commit per line. It also shows the output in brief like the first seven characters of the commit SHA and the commit message.
+
+## *switch between branches*
+    git checkout
+    git checkout master
+### git checkout: to switch between branches in a repository.
+### git checkout master: to refer to the main branch 
