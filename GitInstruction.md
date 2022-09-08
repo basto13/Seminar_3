@@ -1,34 +1,33 @@
-## test
-# **Git Instruction**
-## Main commands
+<h1> Git Instruction</h1>
+<h2> Main commands</h2>
 
 ## *add changes*
     git add
-### The git add command adds a change in the working directory to the staging area.
+<p>The git add command adds a change in the working directory to the staging area.</p>
 
 ## *change repository*
     git commit
-### save changes to the local repository
+<p>save changes to the local repository</p>
 
     git commit -am
-### both add changes in the working directory and save changes to the local repository with a comment
+<p>both add changes in the working directory and save changes to the local repository with a comment</p>
 
 ## *track of changes*
     git status
-### to display the current status of the local repository, to check whether there are changes that are in the repo's directory but have not yet been added to the repo's index with git add.
+<p>to display the current status of the local repository, to check whether there are changes that are in the repo's directory but have not yet been added to the repo's index with git add.</p>
 
 ## *open commit history*
     git log
     git log --oneline
-### git log: displays all of the commits in a repository's history.
-### git log --oneline: display the output as one commit per line. It also shows the output in brief like the first seven characters of the commit SHA and the commit message.
+<p><strong>git log</strong>: displays all of the commits in a repository's history.<br>
+<strong>git log</strong> --oneline: display the output as one commit per line. It also shows the output in brief like the first seven characters of the commit SHA and the commit message.</p>
 
 ## *switch between branches*
     git checkout
     git checkout master
-### git checkout: to switch between branches in a repository.
-### git checkout master: to refer to the main branch 
+<p><strong>git checkout</strong>: to switch between branches in a repository.<br>
+<strong>git checkout master</strong>: to refer to the main branch</p> 
 
 ## *compare commits*
     git diff
-### Show changes between commits, commit and working tree, etc
+<p>show changes between commits, commit and working tree, etc.</p>
