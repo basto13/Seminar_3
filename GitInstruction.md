@@ -16,3 +16,9 @@
 ## *track of changes*
     git status
 ### to display the current status of the local repository, to check whether there are changes that are in the repo's directory but have not yet been added to the repo's index with git add.
+
+## *open commit history*
+    git log
+    git log --oneLine
+### git log: displays all of the commits in a repository's history.
+### git log --oneLine: display the output as one commit per line. It also shows the output in brief like the first seven characters of the commit SHA and the commit message.
