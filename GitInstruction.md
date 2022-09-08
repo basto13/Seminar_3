@@ -28,3 +28,7 @@
     git checkout master
 ### git checkout: to switch between branches in a repository.
 ### git checkout master: to refer to the main branch 
+
+## *compare commits*
+    git diff
+### Show changes between commits, commit and working tree, etc
