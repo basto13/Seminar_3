@@ -1,6 +1,7 @@
 <h1> Git Instruction</h1>
 
 ![Git symbol](git.jpeg)
+
 <h2> Main commands</h2>
 
 ## *create Git repository*
@@ -38,3 +39,6 @@
 ## *compare commits*
     git diff
 <p>show changes between commits, commit and working tree, etc.</p>
+
+## branching
+
