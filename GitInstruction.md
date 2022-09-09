@@ -1,7 +1,10 @@
 <h1> Git Instruction</h1>
+
+![Git symbol](git.jpeg)
 <h2> Main commands</h2>
 
 ## *create Git repository*
+
     git init
 <p>This command creates an empty Git repository - basically a .git directory with subdirectories for objects , refs/heads , refs/tags , and template files.</p>
 
