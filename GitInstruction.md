@@ -46,3 +46,7 @@
 
     git branch <branch_name>
 <p>command for new branch creation</p>
+
+#### merging
+
+<p>Join two or more development histories together.</br> Incorporates changes from the named commits (since the time their histories diverged from the current branch) into the current branch.</p> 
