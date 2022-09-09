@@ -38,3 +38,6 @@
 ## *compare commits*
     git diff
 <p>show changes between commits, commit and working tree, etc.</p>
+
+## branching
+
