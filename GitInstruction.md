@@ -42,3 +42,7 @@
 
 ## branching
 
+<p>In Git, a branch is a new/separate version of the main repository.</p>
+
+    git branch <branch_name>
+<p>command for new branch creation</p>
