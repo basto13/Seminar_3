@@ -49,4 +49,6 @@
 
 #### merging
 
+    git merge <branch_name>
+
 <p>Join two or more development histories together.</br> Incorporates changes from the named commits (since the time their histories diverged from the current branch) into the current branch.</p> 
