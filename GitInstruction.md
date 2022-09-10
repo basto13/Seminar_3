@@ -51,6 +51,8 @@
     git branch <branch_name>
 <p>command for new branch creation</p>
 
+    git branch -d <branch_name>
+
 
 
 ## *merging*
