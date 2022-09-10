@@ -4,6 +4,11 @@
 
 <h2> Main commands</h2>
 
+## *set Git configuration*
+    git config
+
+<p>Get and set repository or global options.</br> A convenience function that is used to set Git configuration values on a global or local project level.</p>
+
 ## *create Git repository*
 
     git init
@@ -28,9 +33,7 @@
     git log
     git log --oneline
     git log --graph
-<p><strong>git log</strong>: displays all of the commits in a repository's history.<br>
-<strong>git log --oneline</strong>: display the output as one commit per line. It also shows the output in brief like the first seven characters of the commit SHA and the commit message.</p>
-<p>Draw a text-based graphical representation of the commit history on the left hand side of the output. This may cause extra lines to be printed in between commits, in order for the graph history to be drawn properly.</p>
+<p><strong>git log</strong>: displays all of the commits in a repository's history.<br> <strong>git log --oneline</strong>: display the output as one commit per line. It also shows the output in brief like the first seven characters of the commit SHA and the commit message.</br>Draw a text-based graphical representation of the commit history on the left hand side of the output. This may cause extra lines to be printed in between commits, in order for the graph history to be drawn properly.</p>
 
 ## *switch between branches*
     git checkout
