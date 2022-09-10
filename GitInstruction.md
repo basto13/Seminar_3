@@ -4,6 +4,8 @@
 
 <h2> Main commands</h2>
 
+#### !! add git config command info !!
+
 ## *create Git repository*
 
     git init
