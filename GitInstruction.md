@@ -44,6 +44,10 @@
 
 <p>In Git, a branch is a new/separate version of the main repository.</p>
 
+    git branch
+    git branch --list --all
+<p>If --list is given, or if there are no non-option arguments, existing branches are listed; the current branch will be highlighted in green and marked with an asterisk.</p>
+
     git branch <branch_name>
 <p>command for new branch creation</p>
 
