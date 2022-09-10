@@ -44,8 +44,11 @@
 
 <p>In Git, a branch is a new/separate version of the main repository.</p>
 
+## git branch command serves to show existing branches in repository.
     git branch <branch_name>
 <p>command for new branch creation</p>
+
+
 
 ## *merging*
 
