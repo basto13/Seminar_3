@@ -49,9 +49,9 @@
 <p>If <strong>--list</strong> is given, or if there are no non-option arguments, existing branches are listed; the current branch will be highlighted in green and marked with an asterisk.</p>
 
     git branch <branch_name>
-<p>command for new branch creation</p>
+<p>to create new branch command</p>
 
-
+<p>with a <strong>-d</strong> or <strong>-D</strong> option branch will be deleted. You may specify more than one branch for deletion</p>
 
 ## *merging*
 
