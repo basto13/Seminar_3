@@ -27,6 +27,7 @@
 ## *open commit history*
     git log
     git log --oneline
+    git log --graph
 <p><strong>git log</strong>: displays all of the commits in a repository's history.<br>
 <strong>git log --oneline</strong>: display the output as one commit per line. It also shows the output in brief like the first seven characters of the commit SHA and the commit message.</p>
 
