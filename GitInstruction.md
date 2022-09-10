@@ -8,6 +8,8 @@
     git config
 <p>Get and set repository or global options.</br> A convenience function that is used to set Git configuration values on a global or local project level.</p>
 
+![Git config instruction](gitInit.jpg)
+
 ## *create Git repository*
 
     git init
