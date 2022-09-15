@@ -68,5 +68,7 @@
 <p>Join two or more development histories together.</br> Incorporates changes from the named commits (since the time their histories diverged from the current branch) into the current branch.</p> 
 
 ## *remote repositories*
+<p>Remote repositories are versions of your project that are hosted on the Internet or network somewhere. You can have several of them, each of which generally is either read-only or read/write for you.</p>
+
 
 
